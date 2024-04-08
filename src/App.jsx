@@ -6,7 +6,7 @@ function App() {
     <>
       <main >
         <div className="maincontainer p-md-4">
-          <img src={`public/image-omelette.jpeg`} className={`img-fluid `} />
+          <img src={`../public/image-omelette.jpeg`} className={`img-fluid `} />
           <section className='container-fluid px-4 py-4 px-md-0 pt-md-4 pb-md-0'>
             <h1 className='young-serif-regular page-heading'>Simple Omelette Recipe</h1>
             <p className='mt-4 outfit-400'>An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked
